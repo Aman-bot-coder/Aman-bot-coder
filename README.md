@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **WhatsApp Status Saver**
 
-- 🌱 I’m currently learning **Flutter,ReactJS**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aman-bot-coder](https://github.com/Aman-bot-coder)
 
