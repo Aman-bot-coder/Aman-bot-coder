@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **psofficial835@gmail.com**
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fun fact ** .**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-bot-coder&label=Profile%20views&color=0e75b6&style=flat" alt="aman-bot-coder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman-bot-coder" alt="aman-bot-coder" /></a> </p>
